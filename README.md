@@ -1,0 +1,1 @@
+SE realizara un analisis de un archivo JSON el cual se transformara a .csv el cual se limpiara y modelara para luego graficar y asi poder dar respuesta y entregar algunas directrices a como evitar la desercion .
